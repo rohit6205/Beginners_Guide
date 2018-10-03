@@ -7,7 +7,18 @@ Please add link of best resources to learn and contributing repositories here fo
 
 ### Machine Learning
 Please add link of best resources to learn and contributing repositories here for Machine Learning.
-
+Best books Learn python and machine learning basic - 
+  https://github.com/rasbt/python-machine-learning-book
+  https://github.com/rasbt/python-machine-learning-book-2nd-edition
+  
+Expert guide for ML - 
+  https://github.com/datacamp/course-resources-ml-with-experts-budgets
+  
+Tutorial blogs for ML - 
+  https://www.manning.com/books/introducing-data-science
+  https://github.com/dataspelunking/MLwR
+  https://github.com/joelgrus/data-science-from-scratch
+  
 ### Blockchain
 Please add link of best resources to learn and contributing repositories here for Blockchain.
 
